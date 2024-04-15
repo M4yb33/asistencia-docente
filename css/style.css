@@ -28,7 +28,7 @@
 }
 #mision{
     color: rgb(255, 255, 255);
-    float: right;
+    text-align: right;
 }
 #passwordHelpBlock {
     color: rgb(255, 255, 255);
